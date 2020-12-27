@@ -1,0 +1,148 @@
+[
+  {
+    "term": "Macroeconomics",
+    "answers": [
+      "The study of issues that affect the whole economy. E.g. Interest rates, exchange rates"
+    ]
+  },
+  {
+    "term": "Macroeconomic performance indicators?",
+    "answers": [
+      "Inflation rate (consumer prices index/CPI)",
+      "",
+      "Unemployment levels",
+      "",
+      "Economic growth (measured by real GDP)",
+      "",
+      "Balance of payments; International trade-trade with other countries"
+    ]
+  },
+  {
+    "term": "Government macro policy",
+    "answers": [
+      "Economic growth (considered to be the most fundamental macro objective)",
+      "Low/stable inflation rate",
+      "Low unemployment",
+      "Equilibrium on the current account",
+      "Greater income equality",
+      "Protection of the environment",
+      "Balanced government budget"
+    ]
+  },
+  {
+    "term": "Recession",
+    "answers": ["A fall in GDP over two quarters"]
+  },
+  {
+    "term": "Index Numbers",
+    "answers": [
+      "A numerical value which reflects the % change in an economic variable since the base years"
+    ]
+  },
+  {
+    "term": "Calculating index numbers",
+    "answers": ["(Current Value / Base value) x 100"]
+  },
+  {
+    "term": "What is GDP?",
+    "answers": [
+      "GDP is the total value of output of goods and services produced within the domestic economy over a period of time"
+    ]
+  },
+  {
+    "term": "Nominal GDP",
+    "answers": [
+      "Measures the value of national output produced by a country at current prices with no adjustment for the effects of inflation"
+    ]
+  },
+  {
+    "term": "Real GDP",
+    "answers": [
+      "Measures the volume of output at constant prices and is adjusted for inflation"
+    ]
+  },
+  {
+    "term": "Total GDP",
+    "answers": ["The sum of all GDP produced in an economy"]
+  },
+  {
+    "term": "GNI (gross national index)",
+    "answers": ["GDP + net property income from abroad"]
+  },
+  {
+    "term": "GDP per capita",
+    "answers": ["Total GDP / population"]
+  },
+  {
+    "term": "Advantages of Economic Growth",
+    "answers": [
+      "Less unemployment",
+      "Increase in Consumption",
+      "Higher investment in public services"
+    ]
+  },
+  {
+    "term": "Disadvantages of Economic Growth",
+    "answers": ["Inflation", "Environmental costs", "Income inequality"]
+  },
+  {
+    "term": "Benefits of GNI",
+    "answers": [
+      "Straight forward, Widely understood, Widely adopted, Easy to compare income levels across countries"
+    ]
+  },
+  {
+    "term": "Exchange rate",
+    "answers": ["Price of currency against another"]
+  },
+  {
+    "term": "Purchasing power parity (PPP):",
+    "answers": [
+      "The rate at which the currency of one country would have to be converted into that of another country to buy the same amount of goods and services in each country"
+    ]
+  },
+  {
+    "term": "Easterlin Paradox",
+    "answers": [
+      "Happiness rises with average incomes, higher incomes = more luxury goods being purchased e.g. holidays but up to a certain point. Beyond this, the marginal gains in happiness fall, perhaps because people care about 'relative' as well as absolute incomes"
+    ]
+  },
+  {
+    "term": "Human Development Index (HDI)",
+    "answers": [
+      "It is a collection of statistics that are combined into an index, ranking countries according to their human development (standard of living)."
+    ]
+  },
+  {
+    "term": "Inflation",
+    "answers": [
+      "The rate of increase in the average price level of goods and services in an economy"
+    ]
+  },
+  {
+    "term": "CPI (Consumer Price Index)",
+    "answers": [
+      "The headline rate of inflation but excludes mortgage interest payments, housing costs."
+    ]
+  },
+  {
+    "term": "RPI (Retail Price Index)",
+    "answers": [
+      "CPI that Includes mortgage interest payments. Thus changes in the interest rates effect the RPI"
+    ]
+  },
+  {
+    "term": "RPIX",
+    "answers": ["Same as RPI, but without mortgage interest repayments"]
+  },
+  {
+    "term": "Calculating rate of inflation",
+    "answers": ["((new price level - old price level) / old price level) x 100"]
+  },
+  {
+    "term": "How is inflation measured?",
+    "answers": [
+      "Each month prices are collected on 700 goods and services commonly purchased (referred to as the 'basket of goods and services'). Prices are collected from about 110,000 outlets in 150 locations across the country. Other prices are collected online of by phone. These are then combined into an index using 'weights'. Weighting reflects the amount we spend on these items as consumers"
+    ]
+  }
+]
